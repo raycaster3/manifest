@@ -22,6 +22,8 @@
   <project path="device/common" name="device/common" />
   <project path="device/lge/d801" name="cannondalev2000/device_lge_d801" remote="gh" revision="rebase-dark" />
   <project path="device/lge/g2-common" name="cannondalev2000/device_lge_g2-common" remote="gh" revision="rebase-dark" />
+  <project path="device/moto/shamu" name="device/moto/shamu" groups="device,shamu" />
+  <project path="device/moto/shamu-kernel" name="device/moto/shamu-kernel" groups="device,shamu" clone-depth="1" />  
   <project path="device/qcom/common" name="CyanogenMod/device_qcom_common" remote="gh" revision="cm-12.0" />
   <project path="kernel/lge/msm8974" name="cannondalev2000/kernel_lge_msm8974" remote="gh" revision="optipop" />
   <project path="external/aac" name="platform/external/aac"/>
@@ -400,6 +402,6 @@
   <project path="tools/swt" name="platform/tools/swt" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" />
   <project path="vendor/lge" name="OptiPop/vendor_lge" remote="gh" revision="rebase" />
-  <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="gh" revision="cm-12.1" />  
+  <project path="vendor/motorola" name="Tesla-LP/proprietary_vendor_motorola" remote="gh" revision="android-5.1" />  
   <project path="vendor/optipop" name="OptiPop/vendor" remote="gh" revision="rebase" />
 </manifest>
