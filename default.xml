@@ -20,10 +20,10 @@
   <project path="dalvik" name="platform/dalvik" />
   <project path="development" name="platform/development" />
   <project path="device/common" name="device/common" />
-  <project path="device/lge/hammerhead" name="OptiPop/device_lge_hammerhead" remote="gh" revision="rebase-dark" />
-  <project path="kernel/lge/hammerhead" name="Cl3Kener/UBER-L" remote="gh" revision="optipop" />
-  <project path="device/moto/shamu" name="OptiPop/device_moto_shamu" remote="gh" revision="rebase-dark" />
-  <project path="kernel/moto/shamu" name="dhacker29/android_kernel_moto_shamu" remote="gh" revision="cm-12.1" /> 
+  <project path="device/lge/d801" name="cannondalev2000/device_lge_d801" remote="gh" revision="rebase-dark" />
+  <project path="device/lge/g2-common" name="cannondalev2000/device_lge_g2-common" remote="gh" revision="rebase-dark" />
+  <project path="device/qcom/common" name="CyanogenMod/device_qcom_common" remote="gh" revision="cm-12.0" />
+  <project path="kernel/lge/msm8974" name="cannondalev2000/kernel_lge_msm8974" remote="gh" revision="optipop" />
   <project path="external/aac" name="platform/external/aac"/>
   <project path="external/android-clat" name="platform/external/android-clat" />
   <project path="external/ant-glob" name="platform/external/ant-glob" />
