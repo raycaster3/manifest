@@ -5,6 +5,8 @@
            fetch="https://android.googlesource.com/" />
   <remote  name="gh"
            fetch="https://github.com/" />
+  <remote name="bb"
+           fetch="https://bitbucket.org/" />           
   <default revision="refs/tags/android-5.1.0_r1"
            remote="aosp"
            sync-j="8" />
