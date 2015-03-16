@@ -26,7 +26,7 @@
   <project path="device/lge/g2-common" name="cannondalev2000/device_lge_g2-common" remote="gh" revision="rebase-dark" />
   <project path="device/moto/shamu" name="device/moto/shamu" groups="device,shamu" />
   <project path="device/moto/shamu-kernel" name="device/moto/shamu-kernel" groups="device,shamu" clone-depth="1" />  
-  <project path="device/qcom/common" name="CyanogenMod/device_qcom_common" remote="gh" revision="cm-12.0" />
+  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="gh" revision="cm-12.0" />
   <project path="kernel/lge/msm8974" name="cannondalev2000/kernel_lge_msm8974" remote="gh" revision="optipop" />
   <project path="external/aac" name="platform/external/aac"/>
   <project path="external/android-clat" name="platform/external/android-clat" />
