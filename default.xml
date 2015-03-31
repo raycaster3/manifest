@@ -18,7 +18,7 @@
   <project path="art" name="OptiPop/art" remote="gh" revision="dark-5.0" />
   <project path="bionic" name="OptiPop/bionic" remote="gh" revision="dark-5.0" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
-  <project path="bootable/recovery" name="OptiPop/recovery" remote="gh" revision="master" />
+  <project path="bootable/recovery" name="platform/bootable/recovery" />
   <project path="dalvik" name="platform/dalvik" />
   <project path="development" name="platform/development" />
   <project path="device/common" name="device/common" />
@@ -376,7 +376,7 @@
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" clone-depth="1" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
-  <project path="sdk" name="OptiPop/sdk" remote="gh" revision="master" />
+  <project path="sdk" name="platform/sdk" />
   <project path="system/core" name="OptiPop/system_core" remote="gh" revision="dark-5.0" />
   <project path="system/extras" name="OptiPop/system_extras" remote="gh" revision="dark-5.0" />
   <project path="system/keymaster" name="platform/system/keymaster" />
